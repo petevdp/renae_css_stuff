@@ -1,0 +1,19 @@
+* {
+    text-align: center;
+}
+
+
+p, h2 {
+    text-align: left;
+    background-color: lightblue;
+}
+
+
+.dance {
+    font-style: italic;
+    background-color: aqua;
+    }
+
+#second-paragraph {
+  font-family: 'Courier New', Courier, monospace
+}
